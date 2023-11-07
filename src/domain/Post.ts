@@ -1,5 +1,6 @@
 import { Author } from "./Author";
 import { EntityId } from "./EntityId";
+import { Tag } from "./Tag";
 
 export class Post {
     private _id: EntityId;
@@ -7,16 +8,18 @@ export class Post {
     private _author: Author;
     private _text?: string = "";
     private _isDraft: boolean = true; 
+    private _tags?: Tag[] = [];
 
     private constructor(id: EntityId, title: string, author: Author) {
       this._id = id;
       this._title = title;
-      this._author = author;  
+      this._author = author; 
     }
 
-    public static create(id: EntityId, title: string, author: Author, text?: string) {
+    public static create(id: EntityId, title: string, author: Author, text?: string, tags?: Tag[]): Post {
         let instance = new Post(id, title, author);
         instance._text = text;
+        instance._tags = tags;
         return instance;
     }
 
