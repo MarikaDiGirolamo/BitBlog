@@ -15,6 +15,7 @@ test('Publish an unpublished post', () => {
     "Never forget what you are.",
     author,
     "The rest of the world will not. Wear it like armor, and it can never be used to hurt you."
+    
   );
 
   // When the post is published
