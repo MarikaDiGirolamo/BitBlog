@@ -1,0 +1,26 @@
+```mermaid 
+stateDiagram-v2
+    [*] --> ArticleProposed
+    ArticleProposed --> ReviewProposal
+
+     state rejected <<choice>>
+        rejected --> SendFeedBackAuthor
+        ReviewProposal --> rejected:rejected
+        SendFeedBackAuthor --> ArticleRejected
+        ArticleRejected --> [*]
+
+    state approved <<choice>>
+        ReviewProposal --> approved:approved
+        approved --> SelectedStockPhoto
+        approved --> WriteArticle
+        WriteArticle --> EditArticle
+
+
+    state posted <<choice>>
+    SelectedStockPhoto --> posted
+    EditArticle --> posted
+    posted --> ApprovedContent
+    ApprovedContent --> PublishArticle
+    PublishArticle --> NotifyEmployees
+    NotifyEmployees --> [*]
+    ```
