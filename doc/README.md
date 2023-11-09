@@ -118,6 +118,8 @@ If everything is ok, you should see something like [v12.16.1]
 
 ```
 
+![Alternate Text](https://github.com/MarikaDiGirolamo/BitBlog/blob/master/doc/gif/nice-smack.gif)
+
 ## Contributing
 
 * Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
