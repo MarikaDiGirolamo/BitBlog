@@ -88,7 +88,7 @@ Windows
 
 ## 1. Install Node.js
 
-* Unless you need to install a different version (like for example if you're doing a tutorial and the tutor tells you to install a specific version), I would advise to install the latest. You can find it [here](https://nodejs.org/en/).
+* Unless you need to install a different version (like for example if you're doing a tutorial and the tutor tells you to install a specific version), I would advise to install the latest. You can find it [here](https://nodejs.org/en/) or check it out [here](https://learn.microsoft.com/it-it/windows/dev-environment/javascript/nodejs-on-windows).
 
 * Check if node has been installed successfully.
 
