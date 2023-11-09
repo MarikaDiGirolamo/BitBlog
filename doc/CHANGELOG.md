@@ -3,7 +3,7 @@
  
 ## [Unreleased] 
 
-## [2.0.0]- 2023-11-09
+## [1.1.0]- 2023-11-09
  
 ### Added
 
@@ -17,7 +17,7 @@
 ### Fixed
 * Tags: fix validation functions name
 
-* Diagram: fix Mermaid syntax errors
+* Diagram: fix Mermaid syntax errors // non rilevante
  
 ## [1.0.0] - 2023-11-07
   

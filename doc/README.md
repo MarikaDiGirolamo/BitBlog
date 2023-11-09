@@ -13,11 +13,11 @@ An TypeScript development environment installed, for example, Visual Studio Code
 
 ![Alternate Text](https://github.com/MarikaDiGirolamo/BitBlog/blob/master/doc/gif/john-travolta-meme.gif)
 
-You can install BitBlog on Linux, macOS, and Windows by following these steps.
+You can install BitBlog on Linux, MacOs, and Windows by following these steps.
 
 ---
 
-Linux and MacOS
+Linux and MacOs
 ---
 
 ## 1. Install Homebrew
