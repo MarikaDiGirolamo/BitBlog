@@ -111,7 +111,7 @@ If everything is ok, you should see something like [v12.16.1]
  tsc -v 
 ```
 
-# 4. Install dependencies
+## 3. Install dependencies
 
 ```bash
     npm install
