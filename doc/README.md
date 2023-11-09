@@ -172,7 +172,7 @@ We thank the following collaborators who have contributed to this project:
 * [Marika Di Girolamo](https://github.com/MarikaDiGirolamo)
 * [Sayonara Crestani](https://github.com/screstani)
 
-![Alternate Text](https://github.com/MarikaDiGirolamo/MarikaDiGirolamo/blob/main/assets/giphy%20(2).gif)
+![Alternate Text](https://github.com/MarikaDiGirolamo/BitBlog/blob/master/doc/gif/giphy%20(2).gif)
 
 ## License
 
