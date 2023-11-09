@@ -31,7 +31,7 @@ Linux and MacOS
 
 ```
 
-    For more detail on Homebrew check [here](https://brew.sh/).
+* For more detail on Homebrew check [here](https://brew.sh/).
 
 ## 2. Install Node
 
