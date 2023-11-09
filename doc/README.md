@@ -11,7 +11,7 @@ An TypeScript development environment installed, for example, Visual Studio Code
 
 ## Installation
 
-![Alternate Text](https://github.com/MarikaDiGirolamo/MarikaDiGirolamo/blob/main/assets/john-travolta-meme.gif)
+![Alternate Text](https://github.com/MarikaDiGirolamo/BitBlog/blob/master/doc/gif/john-travolta-meme.gif)
 
 You can install BitBlog on Linux, macOS, and Windows by following these steps.
 
@@ -111,7 +111,7 @@ If everything is ok, you should see something like [v12.16.1]
  tsc -v 
 ```
 
-# 4. Install dependencies
+## 3. Install dependencies
 
 ```bash
     npm install
@@ -172,7 +172,7 @@ We thank the following collaborators who have contributed to this project:
 * [Marika Di Girolamo](https://github.com/MarikaDiGirolamo)
 * [Sayonara Crestani](https://github.com/screstani)
 
-![Alternate Text](https://github.com/MarikaDiGirolamo/MarikaDiGirolamo/blob/main/assets/giphy%20(2).gif)
+![Alternate Text](https://github.com/MarikaDiGirolamo/BitBlog/blob/master/doc/gif/giphy%20(2).gif)
 
 ## License
 
