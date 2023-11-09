@@ -6,14 +6,14 @@ BitBlog is a TypeScript application that allows you to easily create, manage, an
 
 Before you begin, make sure you meet the following prerequisites:
 
-Node.js and npm installed on your computer. You can download them from nodejs.org.
+Node.js and npm installed on your computer. You can download them from [nodejs.org](https://nodejs.org/en).
 An TypeScript development environment installed, for example, Visual Studio Code.
 
 ## Installation
 
 ![Alternate Text](https://github.com/MarikaDiGirolamo/MarikaDiGirolamo/blob/main/assets/john-travolta-meme.gif)
 
-You can install BitBlog on Linux, macOS, and Windows by following these steps:
+You can install BitBlog on Linux, macOS, and Windows by following these steps.
 
 ---
 
