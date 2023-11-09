@@ -19,7 +19,7 @@
 
 * Diagram: fix Mermaid syntax errors
  
-## [1.0.0] - 2023-11-09
+## [1.0.0] - 2023-11-07
   
 ### Added
 
