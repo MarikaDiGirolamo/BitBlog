@@ -5,16 +5,14 @@ export class Tag{
         if(!this.isValidInput(value.trim())){
             throw new Error("Invalid Tag");
         }
-
         this._value = value.trim();
-
     }
 
     public static fromString(value: string): Tag{
         return new Tag(value);
     }
 
-    private isValidInput(value: string):boolean {
+    private isValidInput(value: string): boolean {
         
         if (value.length < 3) {
             return false;
@@ -34,6 +32,4 @@ export class Tag{
 
         return true; 
     }
-
-
 }
