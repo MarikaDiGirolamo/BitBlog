@@ -21,6 +21,7 @@ Linux and MacOS
 ---
 
 ## 1. Install Homebrew
+
 * Homebrew is a package manager for Mac and helps to easily install and uninstall softwares on a Mac.
 
 * To install Homebrew run the following command in the terminal.
@@ -55,6 +56,7 @@ Linux and MacOS
 * Click [here](https://dyclassroom.com/howto-mac/how-to-install-nodejs-and-npm-on-mac-using-homebrew) to read the tutorial on How to install NodeJS on Mac.
 
 ## 3. Install TypeScript
+
 * We will install TypeScript globally on our Mac so that we can access it from any directory. For this we will use the following command.
 
 ```bash
@@ -84,7 +86,8 @@ Linux and MacOS
 Windows
 ---
 
-## 1. Install Node.js. 
+## 1. Install Node.js
+
 * Unless you need to install a different version (like for example if you're doing a tutorial and the tutor tells you to install a specific version), I would advise to install the latest. You can find it [here](https://nodejs.org/en/).
 
 * Check if node has been installed successfully.
@@ -96,7 +99,7 @@ Windows
 * Use the LTS (long time support) variant
 If everything is ok, you should see something like [v12.16.1]
 
-## 2. Install Typescript.
+## 2. Install Typescript
 
 ```bash
  npm install -g typescript
