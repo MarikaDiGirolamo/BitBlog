@@ -111,7 +111,13 @@ If everything is ok, you should see something like [v12.16.1]
  tsc -v 
 ```
 
-## 3. Install dependencies
+## 3. To convert app.ts file into app.js file we use the following command in the terminal.
+
+```bash
+  tsc app.ts
+```
+
+## 4. Install dependencies
 
 ```bash
     npm install
