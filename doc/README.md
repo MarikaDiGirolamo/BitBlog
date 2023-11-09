@@ -20,60 +20,60 @@ You can install BitBlog on Linux, macOS, and Windows by following these steps.
 Linux and MacOS
 ---
 
-1. Install Homebrew
-Homebrew is a package manager for Mac and helps to easily install and uninstall softwares on a Mac.
+## 1. Install Homebrew
+* Homebrew is a package manager for Mac and helps to easily install and uninstall softwares on a Mac.
 
-To install Homebrew run the following command in the terminal.
+* To install Homebrew run the following command in the terminal.
 
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 ```
 
-For more detail on Homebrew check [here](https://brew.sh/).
+    For more detail on Homebrew check [here](https://brew.sh/).
 
-2. Install Node
+## 2. Install Node
 
-To install Node on your Mac using Homebrew type the following command.
+* To install Node on your Mac using Homebrew type the following command.
 
 ```bash
     brew install node
 ```
 
-Once you have Node installed you can check its version by typing the following command in the terminal.
+* Once you have Node installed you can check its version by typing the following command in the terminal.
 
 ```bash
     node -v
 ```
 
-And, to check the version of NPM type the following command in the terminal.
+* And, to check the version of NPM type the following command in the terminal.
 
 ```bash
     npm -v
 ```
 
-Click [here](https://dyclassroom.com/howto-mac/how-to-install-nodejs-and-npm-on-mac-using-homebrew) to read the tutorial on How to install NodeJS on Mac.
+* Click [here](https://dyclassroom.com/howto-mac/how-to-install-nodejs-and-npm-on-mac-using-homebrew) to read the tutorial on How to install NodeJS on Mac.
 
-3. Install TypeScript
-We will install TypeScript globally on our Mac so that we can access it from any directory. For this we will use the following command.
+## 3. Install TypeScript
+* We will install TypeScript globally on our Mac so that we can access it from any directory. For this we will use the following command.
 
 ```bash
    sudo npm install -g typescript
 ```
 
-Once you have TypeScript installed use the following command to check the version.
+* Once you have TypeScript installed use the following command to check the version.
 
 ```bash
    tsc -v
 ```
 
-To convert app.ts file into app.js file we use the following command in the terminal.
+* To convert app.ts file into app.js file we use the following command in the terminal.
 
 ```bash
   tsc app.ts
 ```
 
-To uninstall TypeScript globally we use the following command.
+* To uninstall TypeScript globally we use the following command.
 
 ```bash
  sudo npm uninstall -g typescript
@@ -84,30 +84,31 @@ To uninstall TypeScript globally we use the following command.
 Windows
 ---
 
-1. Install Node.js. Unless you need to install a different version (like for example if you're doing a tutorial and the tutor tells you to install a specific version), I would advise to install the latest. You can find it [here](https://nodejs.org/en/).
+## 1. Install Node.js. 
+* Unless you need to install a different version (like for example if you're doing a tutorial and the tutor tells you to install a specific version), I would advise to install the latest. You can find it [here](https://nodejs.org/en/).
 
-Check if node has been installed successfully.
+* Check if node has been installed successfully.
 
 ```bash
  node -v
 ```
 
-Use the LTS (long time support) variant
+* Use the LTS (long time support) variant
 If everything is ok, you should see something like [v12.16.1]
 
-2. Install Typescript.
+## 2. Install Typescript.
 
 ```bash
  npm install -g typescript
 ```
 
-Check for Typescript being installed
+* Check for Typescript being installed
 
 ```bash
  tsc -v 
 ```
 
-4. Install dependencies
+# 4. Install dependencies
 
 ```bash
     npm install
@@ -116,12 +117,11 @@ Check for Typescript being installed
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+* Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+* Please make sure to update tests as appropriate.
 
-If you want to contribute to BitBlog, follow these steps:
+* If you want to contribute to BitBlog, follow these steps:
 
 1. Fork this repository to your GitHub account.
 
@@ -155,7 +155,7 @@ If you want to contribute to BitBlog, follow these steps:
 
 ```
 
-Create a pull request on the main BitBlog repository. Your contribution will be reviewed, and if accepted, it will be merged into the project.
+* Create a pull request on the main BitBlog repository. Your contribution will be reviewed, and if accepted, it will be merged into the project.
 
 ## Collaborators
 
